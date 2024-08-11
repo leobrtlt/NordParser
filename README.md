@@ -87,5 +87,5 @@ Contributions are welcome! Please submit **issues**, **fork the repository**, an
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
+This project is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) License. See the LICENSE file for details.
 
